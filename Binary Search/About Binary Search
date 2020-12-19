@@ -20,3 +20,4 @@ Here's a step-by-step description of using binary search to play the guessing ga
 6. Go back to step two.
 We could make that description even more precise by clearly describing the inputs and the outputs for the algorithm and by clarifying what we mean by instructions like "guess a number" and "stop." But this is enough detail for now.
 Next up, we'll see how we can use binary search on an array, and discuss how to turn descriptions of algorithms into actual working code.
+******
