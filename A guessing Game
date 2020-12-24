@@ -9,3 +9,4 @@ Here, try it for a number from 1 to 300. You should need no more than 9 guesses.
 
 How many guesses did it take you to find the number this time? Why should you never need more than 9 guesses? (Can you think of a mathematical explanation)?
 We'll return to binary search, and we'll see how you can use it to efficiently search for an item in a JavaScript array. But first, let's look at an algorithm for a trickier problem.
+.
